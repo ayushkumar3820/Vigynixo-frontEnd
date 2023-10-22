@@ -1,0 +1,23 @@
+
+.react-toastify__toast-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+  }
+  
+  
+  .react-toastify__toast {
+    background-color: #4caf50; 
+    color: white; 
+    border-radius: 4px;
+    margin: 10px;
+    max-width: 300px;
+  }
+  
+  
+  .react-toastify__close-button {
+    color: white;
+    font-weight: bold;
+  }
+  
